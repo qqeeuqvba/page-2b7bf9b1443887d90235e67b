@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8d1912304752842e33fda3ef",
+  "owner": "qqeeuqvba",
+  "repo": "page-2b7bf9b1443887d90235e67b",
+  "title": "便宜机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2b7bf9b1443887d90235e67b",
+      "a": "便宜机场",
+      "b": "稳定全球clash加速器",
+      "entity": "便宜机场",
+      "brand": "便宜机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "40416bcd00c6623faa3eed497f75d187638dedeb77ae42a7f6fe9e408b2b375d",
+      "content": {
+        "primary_entity": "便宜机场",
+        "keyword1": "便宜机场",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端，再导入订阅完成配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选对套餐，按设备配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "轻松配置即刻连接",
+          "AI_DESCRIPTION": "，便宜机场提供基础版、旗舰版和团队版三档套餐，月付价格从十五元到八十五元，年付可享十个月左右的费用优惠。基础版适合单个用户日常浏览，旗舰版增加 IPLC 专线节点与流媒体解锁，团队版支持二十台设备并含专属经理服务。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度对比，找到适合自己的一款。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版与团队版支持流媒体解锁和游戏专线优化，基础版提供普通线路节点池。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "线路与解锁",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端连接的过程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "便宜机场提供多档流量套餐，覆盖手机、电脑和路由器等设备。搭配 Clash 客户端可导入订阅地址，按设备数量与月流量选择合适版本，配置后即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐灵活选择",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "月付年付灵活切换",
+          "AI_PLANS_INTRO": "基础版 100GB/3 台，旗舰版 300GB/5 台，团队版 1000GB/20 台。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据使用人数和月流量需求，从基础版、旗舰版、团队版中选择一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，查看套餐支持的设备数量与线路范围。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅地址，按客户端文档完成连接配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "多设备套餐随心选",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "套餐之间有什么区别？",
+          "AI_FAQ_ANSWER_1": "主要区别在于每月流量、可同时在线设备数量及节点类型。基础版 100GB、3 台设备；旗舰版 300GB、5 台设备，含 IPLC 专线优化；团队版 1000GB、20 台设备，支持企业定制路由。",
+          "AI_FAQ_QUESTION_2": "年付和月付哪个更划算？",
+          "AI_FAQ_ANSWER_2": "年付通常比按月购买更优惠。基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元，长期使用建议选择年付方案。",
+          "AI_FAQ_QUESTION_3": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_3": "基础版允许 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出限制时，需要升级套餐或减少同时连接设备数量。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅或配置导入入口，粘贴订阅链接或扫描配置信息，保存后即可连接。不同客户端的操作路径略有差异，请参考客户端文档。",
+          "AI_FAQ_QUESTION_5": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_5": "当月流量耗尽后，连接可能受到限制或暂停，直到下一个计费周期开始。如需更多流量，可升级到更高档套餐或等待周期重置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ejrzyvq.cn",
+    "host": "ejrzyvq.cn"
+  },
+  "file_hashes": {
+    "index.html": "b56b593418fc1d4ece92dcd51f18d8a73d5c6962f72a9313b544171768cdc973",
+    "sitemap.xml": "37fc95b84eb470804d546c493ebd1001a3d5dd7f246d4caf81a123b37d90819b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9c924a0045debe62a557d5a8f000ac5c5535066e7249bcd7c4c4daba4f2e6b80",
+    "robots.txt": "f4c5fc7237e8e9faf46be7a4a01de241a8e278023c794277c20326d7bb2270f3",
+    "e3236ce1e8fbb219fc215fec01c43cff.txt": "fed0601f08695783ce9f16ec563a39672df94ed26974961a0a0c08413b7728f1"
+  },
+  "revision": "8e0a9f052d0becafa5ad21c66430b992c0e09bcafed37812246988ed7d1b371a"
+}
